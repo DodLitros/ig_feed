@@ -1,0 +1,45 @@
+body {
+    background-color: whitesmoke;
+}
+header{
+    background-color: white;
+    align-content: center;
+
+}
+div.container{
+    width: 500px;
+    margin: auto;
+    display: block;
+}
+
+div.post{
+    background-color: white; 
+    margin: auto;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 25px;
+
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
+
+#up {
+    display: inline-flex;
+}
+
+#up h2{
+    margin-right: 300px;
+    
+}
+#date {
+    margin-top: 1em;
+    color: grey;
+    font-size: small;
+}
+h1{
+    text-align:center; 
+ }
+ 
+
